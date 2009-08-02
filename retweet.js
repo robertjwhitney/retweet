@@ -29,7 +29,7 @@ window.RetweetJS = {
 
 	// Style information
 	styling: "a.retweet { font: 12px Helvetica,Arial; color: #000; text-decoration: none; border: 0px; }" +
-		"a.retweet span { color: #FFF; background: #94CC3D; margin-left: 2px; border: 1px solid #43A52A; -moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px; padding: 3px; }" +
+		"a.retweet span { color: #FFF; background: 95e8ec; margin-left: 2px; border: 1px solid #43A52A; -moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px; padding: 3px; }" +
 		"a.vert { display: block; text-align: center; font-size: 16px; float: left; margin: 4px; }" +
 		"a.retweet strong.vert { display: block; margin-bottom: 4px; background: #F5F5F5; border: 1px solid #EEE; -moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px; padding: 3px; }" +
 		"a.retweet span.vert { display: block; font-size: 12px; margin-left: 0px; }"
