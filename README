@@ -1,5 +1,7 @@
 Easy Retweet Button
 
+Jeresig's Retweet Button is great, but I felt that it was missing some simple attention to detail regarding UI patterns.  I feel that using the twitter blues, and a small "t" logo instead of the green with the recycling icon make the purpose of the button immediately recognizable to the user, thereby producing fewer unexpected results.
+
 More information:
 http://ejohn.org/blog/retweet/
 
